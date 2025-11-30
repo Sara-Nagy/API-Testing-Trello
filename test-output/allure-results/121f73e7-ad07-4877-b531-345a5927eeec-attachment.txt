@@ -1,0 +1,12 @@
+[DEBUG] - [28-11-2025 01:01:15] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Al-Huda\Desktop\Automationl_API_Project\ITI_Graduation_Project_V1\testng.xml"
+[INFO] - [28-11-2025 01:01:16] [main] [coreLibraries.listeners.TestNGListeners] - Test Execution started
+[INFO] - [28-11-2025 01:01:16] [main] [coreLibraries.utils.FileUtils] - File deleted: C:\Users\Al-Huda\Desktop\Automationl_API_Project\ITI_Graduation_Project_V1\test-output\Logs\logs.log
+[INFO] - [28-11-2025 01:01:16] [main] [coreLibraries.listeners.TestNGListeners] - Directories cleaned
+[INFO] - [28-11-2025 01:01:16] [main] [coreLibraries.utils.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [28-11-2025 01:01:16] [main] [coreLibraries.listeners.TestNGListeners] - Properties loaded
+[INFO] - [28-11-2025 01:01:16] [main] [coreLibraries.utils.report.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [28-11-2025 01:01:19] [main] [coreLibraries.utils.report.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [28-11-2025 01:01:19] [main] [coreLibraries.listeners.TestNGListeners] - Allure environment set
+[INFO] - [28-11-2025 01:01:20] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Al-Huda\Desktop\Automationl_API_Project\ITI_Graduation_Project_V1\testng.xml
+
